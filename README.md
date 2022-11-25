@@ -1,3 +1,3 @@
-# cafe_ejercicio
+# Cafe_ejercicio
 
-sitio de prueba para practicar css y html siendo completamente adaptable al movil.
+Sitio de prueba para practicar css y html siendo completamente adaptable al movil.
